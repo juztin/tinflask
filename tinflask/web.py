@@ -3,8 +3,6 @@ from os import environ
 
 from flask import Flask
 
-import tinflask.etcd
-import tinflask.keystore
 import tinflask.handlers
 
 
